@@ -1,14 +1,14 @@
 ## Tarea-1
-Informe tarea: del capitulo 1 y 2
+**Informe tarea**: del capitulo 1 y 2
 Informe de la tarea # 1
 
-Nombre: Mateo Villegas
+**Nombre**: Mateo Villegas
 
-NRC: 7322
+**NRC**: 7322
 
-Profesor: Darwin Omar Alulema Flores
+**Profesor**: Darwin Omar Alulema Flores
 
-Objetivos: 
+**Objetivos: 
 
 a.	Recordar temas especificados en el tema 1 y 2 del libro de Floyd.
 
