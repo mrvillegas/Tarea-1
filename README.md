@@ -8,7 +8,7 @@ Informe de la tarea # 1
 
 **Profesor**: Darwin Omar Alulema Flores
 
-**Objetivos: 
+**Objetivos:** 
 
 a.	Recordar temas especificados en el tema 1 y 2 del libro de Floyd.
 
@@ -21,4 +21,6 @@ d.	Saber cómo resolver los ejercicios propuestos del tema 2 del libro de Floyd.
 Marco Teórico:
 Unidades de medición:
 En la actualidad todos los trabajos de ingeniería y científicos se usa un sistema internacional de unidades mejorado que es usado de forma mundial. El Sistema Internacional de Unidades, también abreviado como SI.
-[]([https://pages.github.com/](https://github.com/mrvillegas/Tarea-1/blob/main/1.PNG))
+![1](https://github.com/mrvillegas/Tarea-1/blob/main/1.PNG)
+Notación científica:
+![1](https://github.com/mrvillegas/Tarea-1/blob/main/1.PNG)
