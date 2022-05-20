@@ -29,3 +29,16 @@ Notación científica:
 
 Notación de ingeniería y prefijos métricos:
 
+![1](https://github.com/mrvillegas/Tarea-1/blob/main/3.PNG)
+
+Carga eléctrica:
+
+	La carga eléctrica (Q) se mide en coulombs, simbolizada mediante C.
+  
+	Un coulomb es la carga total poseída por 6.25 x 〖10〗^18 electrones.
+  
+	La carga eléctrica se calcula con la siguiente formula:
+  
+**Q**=(numero de electrones)/(6.25 x 〖10〗^18  electrones/C)
+
+*Voltaje, corriente y resistencia*:
