@@ -320,6 +320,8 @@ R=10 X 10 Ω=100 Ω
 
 **4.- Video:**
 
+https://youtu.be/I6fwWh_CofE
+
 **5.- Conclusiones:**
 
 La resolucion de los problemas propuestos en este informe ayudo a profundizar y aprender lo que esta propuesto en el tema 1 y 2 del libro de Floyd, lo cual es expresar primero los digitos con muchos ceros tanto a la izquierda como tambien en la derecha, el cual nos ayuda a simplificar dichos digitos, usando lo que es tanto la notacion cientifica como tambien la notacion de ingenieria acompañado de los prefijos metricos; tambien se logro comprender todo lo basico referido a voltaje, resistencia y corriente dado que no se profundiza mucho en cada tema, como tambien lo que es carga electrica, con sus respestivas mediciones usando el multimetro.
