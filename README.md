@@ -271,6 +271,10 @@ I=V/R  ;V=I x R=0.1 A x 500 Ω=50 V
 
      28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+![1](https://github.com/mrvillegas/Tarea-1/blob/main/13.png)
+
+Como se tiene una resistencia de 1000 Ω entonces se tendra una resistencia de 500 Ω en cada terminal
+
      30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
      
 (a) 4R7J: 4.7JΩ ± 5%
@@ -302,6 +306,8 @@ sección puede ser conectada al amplificador.
      38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
 ![1](https://github.com/mrvillegas/Tarea-1/blob/main/8.png)
+
+Hay que tomar en cuenta que para que se tome el valor real de la resistencia entonces el cable rojo va con el polo positivo mientras que el negro va con el polo negativo.
 
      40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
      
