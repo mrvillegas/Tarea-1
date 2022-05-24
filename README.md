@@ -10,7 +10,7 @@ Informe de la tarea # 1
 
 **Objetivos:** 
 
-a.	Recordar temas especificados en el tema 1 y 2 del libro de Floyd.
+a.	Recordar temas especificados en el tema 1 y 2 del libro, Principios de circuitos eléctricos. Octava edición de Floyd.
 
 b.	Determinar mediante cálculos matemáticos la representación de los números en notación científica, como también en decimal regular y notación de ingeniería
 
