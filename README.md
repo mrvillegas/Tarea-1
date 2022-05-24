@@ -311,7 +311,7 @@ Hay que tomar en cuenta que para que se tome el valor real de la resistencia ent
 
      40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
      
-![1](https://github.com/mrvillegas/Tarea-1/blob/main/9.png)
+![1](https://github.com/mrvillegas/Tarea-1/blob/main/14.png)
 
      42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
 
@@ -323,6 +323,8 @@ R=10 X 10 Ω=100 Ω
 ![1](https://github.com/mrvillegas/Tarea-1/blob/main/11.png)
 
      46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+     
+En dicho multimetro( de 4 1/2 dígitos ) se mostrara hasta un maximo de 19.999 recuentos de resoluciones
 
 **4.- Video:**
 
